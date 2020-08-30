@@ -1,0 +1,27 @@
+body{  background-color: rgb(243, 241, 241);
+    }
+#tx1{
+    text-align: center;
+    background-color: rgb(127, 229, 255);
+    border: 1px  black solid
+}
+#imgods{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 450px;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+}
+#tx2{
+    margin-top:-10px;
+}
+#ods1{
+    margin-left: 325px;
+    text-align: center;
+    border: 1px  black solid
+}
+#mp2{
+    margin-left: 325px;
+    border: 1px  black solid
+}
